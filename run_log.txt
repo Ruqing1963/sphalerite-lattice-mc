@@ -1,0 +1,101 @@
+Lattice: L=10, N_cation=4000, N_anion=4000, Cu=80, In=80
+
+==============================================================================
+Experiment A1: full model (lambda = 0.30 eV, J_CuIn = -0.10 eV)
+==============================================================================
+  T= 3000.0 K | kT/lam= 0.86 | E/site= +0.0265 eV | alpha(In-Cu)=  -6.135 | R_CuIn=  7.14 | <dQ2>=0.097 | acc= 0.21058
+  T= 2400.0 K | kT/lam= 0.69 | E/site= -0.0013 eV | alpha(In-Cu)= -21.708 | R_CuIn= 22.71 | <dQ2>=0.023 | acc= 0.03565
+  T= 2000.0 K | kT/lam= 0.57 | E/site= -0.0027 eV | alpha(In-Cu)= -22.333 | R_CuIn= 23.33 | <dQ2>=0.019 | acc= 0.00904
+  T= 1600.0 K | kT/lam= 0.46 | E/site= -0.0049 eV | alpha(In-Cu)= -23.323 | R_CuIn= 24.32 | <dQ2>=0.013 | acc= 0.00124
+  T= 1300.0 K | kT/lam= 0.37 | E/site= -0.0053 eV | alpha(In-Cu)= -23.427 | R_CuIn= 24.43 | <dQ2>=0.012 | acc= 0.00011
+  T= 1100.0 K | kT/lam= 0.32 | E/site= -0.0053 eV | alpha(In-Cu)= -23.427 | R_CuIn= 24.43 | <dQ2>=0.012 | acc= 0.00002
+  T=  950.0 K | kT/lam= 0.27 | E/site= -0.0053 eV | alpha(In-Cu)= -23.479 | R_CuIn= 24.48 | <dQ2>=0.012 | acc= 0.00001
+  T=  850.0 K | kT/lam= 0.24 | E/site= -0.0053 eV | alpha(In-Cu)= -23.479 | R_CuIn= 24.48 | <dQ2>=0.012 | acc= 0.00002
+  T=  773.0 K | kT/lam= 0.22 | E/site= -0.0053 eV | alpha(In-Cu)= -23.427 | R_CuIn= 24.43 | <dQ2>=0.012 | acc= 0.00001
+  T=  700.0 K | kT/lam= 0.20 | E/site= -0.0053 eV | alpha(In-Cu)= -23.479 | R_CuIn= 24.48 | <dQ2>=0.012 | acc= 0.00001
+  T=  640.0 K | kT/lam= 0.18 | E/site= -0.0053 eV | alpha(In-Cu)= -23.427 | R_CuIn= 24.43 | <dQ2>=0.012 | acc= 0.00001
+  T=  573.0 K | kT/lam= 0.16 | E/site= -0.0053 eV | alpha(In-Cu)= -23.479 | R_CuIn= 24.48 | <dQ2>=0.012 | acc= 0.00001
+  T=  500.0 K | kT/lam= 0.14 | E/site= -0.0053 eV | alpha(In-Cu)= -23.427 | R_CuIn= 24.43 | <dQ2>=0.012 | acc= 0.00001
+  T=  450.0 K | kT/lam= 0.13 | E/site= -0.0053 eV | alpha(In-Cu)= -23.479 | R_CuIn= 24.48 | <dQ2>=0.012 | acc= 0.00001
+  T=  400.0 K | kT/lam= 0.11 | E/site= -0.0053 eV | alpha(In-Cu)= -23.479 | R_CuIn= 24.48 | <dQ2>=0.012 | acc= 0.00001
+  T=  373.0 K | kT/lam= 0.11 | E/site= -0.0053 eV | alpha(In-Cu)= -23.479 | R_CuIn= 24.48 | <dQ2>=0.012 | acc= 0.00001
+  T=  320.0 K | kT/lam= 0.09 | E/site= -0.0053 eV | alpha(In-Cu)= -23.479 | R_CuIn= 24.48 | <dQ2>=0.012 | acc= 0.00001
+
+==============================================================================
+Experiment A2: elastic terms only (lambda = 0, J = 0)
+==============================================================================
+  T= 3000.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  +0.062 | R_CuIn=  0.94 | <dQ2>=0.159 | acc= 0.97952
+  T= 2400.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  -0.042 | R_CuIn=  1.04 | <dQ2>=0.156 | acc= 0.97936
+  T= 2000.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  +0.010 | R_CuIn=  0.99 | <dQ2>=0.159 | acc= 0.97933
+  T= 1600.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  +0.167 | R_CuIn=  0.83 | <dQ2>=0.163 | acc= 0.97911
+  T= 1300.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  -0.562 | R_CuIn=  1.56 | <dQ2>=0.154 | acc= 0.97897
+  T= 1100.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  +0.167 | R_CuIn=  0.83 | <dQ2>=0.164 | acc= 0.97877
+  T=  950.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  +0.062 | R_CuIn=  0.94 | <dQ2>=0.162 | acc= 0.97852
+  T=  850.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  -0.042 | R_CuIn=  1.04 | <dQ2>=0.156 | acc= 0.97847
+  T=  773.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  -0.198 | R_CuIn=  1.20 | <dQ2>=0.159 | acc= 0.97816
+  T=  700.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  +0.219 | R_CuIn=  0.78 | <dQ2>=0.161 | acc= 0.97798
+  T=  640.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  -0.094 | R_CuIn=  1.09 | <dQ2>=0.155 | acc= 0.97787
+  T=  573.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  +0.115 | R_CuIn=  0.89 | <dQ2>=0.163 | acc= 0.97758
+  T=  500.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  -0.250 | R_CuIn=  1.25 | <dQ2>=0.157 | acc= 0.97730
+  T=  450.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  -0.094 | R_CuIn=  1.09 | <dQ2>=0.159 | acc= 0.97699
+  T=  400.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  -0.042 | R_CuIn=  1.04 | <dQ2>=0.158 | acc= 0.97647
+  T=  373.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  -0.250 | R_CuIn=  1.25 | <dQ2>=0.157 | acc= 0.97631
+  T=  320.0 K | kT/lam=  inf | E/site= +0.0007 eV | alpha(In-Cu)=  +0.323 | R_CuIn=  0.68 | <dQ2>=0.169 | acc= 0.97578
+
+==============================================================================
+Experiment A3: electrostatics only (lambda = 0.30 eV, J = 0)
+==============================================================================
+  T= 3000.0 K | kT/lam= 0.86 | E/site= +0.0340 eV | alpha(In-Cu)=  -4.417 | R_CuIn=  5.42 | <dQ2>=0.111 | acc= 0.30693
+  T= 2400.0 K | kT/lam= 0.69 | E/site= +0.0275 eV | alpha(In-Cu)=  -6.812 | R_CuIn=  7.81 | <dQ2>=0.089 | acc= 0.17368
+  T= 2000.0 K | kT/lam= 0.57 | E/site= +0.0049 eV | alpha(In-Cu)= -14.312 | R_CuIn= 15.31 | <dQ2>=0.014 | acc= 0.02608
+  T= 1600.0 K | kT/lam= 0.46 | E/site= +0.0028 eV | alpha(In-Cu)= -14.937 | R_CuIn= 15.94 | <dQ2>=0.007 | acc= 0.00287
+  T= 1300.0 K | kT/lam= 0.37 | E/site= +0.0028 eV | alpha(In-Cu)= -14.937 | R_CuIn= 15.94 | <dQ2>=0.007 | acc= 0.00033
+  T= 1100.0 K | kT/lam= 0.32 | E/site= +0.0026 eV | alpha(In-Cu)= -14.990 | R_CuIn= 15.99 | <dQ2>=0.006 | acc= 0.00003
+  T=  950.0 K | kT/lam= 0.27 | E/site= +0.0028 eV | alpha(In-Cu)= -14.937 | R_CuIn= 15.94 | <dQ2>=0.007 | acc= 0.00001
+  T=  850.0 K | kT/lam= 0.24 | E/site= +0.0026 eV | alpha(In-Cu)= -14.990 | R_CuIn= 15.99 | <dQ2>=0.006 | acc= 0.00002
+  T=  773.0 K | kT/lam= 0.22 | E/site= +0.0026 eV | alpha(In-Cu)= -14.990 | R_CuIn= 15.99 | <dQ2>=0.006 | acc= 0.00001
+  T=  700.0 K | kT/lam= 0.20 | E/site= +0.0026 eV | alpha(In-Cu)= -14.990 | R_CuIn= 15.99 | <dQ2>=0.006 | acc= 0.00001
+  T=  640.0 K | kT/lam= 0.18 | E/site= +0.0026 eV | alpha(In-Cu)= -14.990 | R_CuIn= 15.99 | <dQ2>=0.006 | acc= 0.00001
+  T=  573.0 K | kT/lam= 0.16 | E/site= +0.0026 eV | alpha(In-Cu)= -14.990 | R_CuIn= 15.99 | <dQ2>=0.006 | acc= 0.00001
+  T=  500.0 K | kT/lam= 0.14 | E/site= +0.0026 eV | alpha(In-Cu)= -14.990 | R_CuIn= 15.99 | <dQ2>=0.006 | acc= 0.00001
+  T=  450.0 K | kT/lam= 0.13 | E/site= +0.0026 eV | alpha(In-Cu)= -14.990 | R_CuIn= 15.99 | <dQ2>=0.006 | acc= 0.00001
+  T=  400.0 K | kT/lam= 0.11 | E/site= +0.0026 eV | alpha(In-Cu)= -14.990 | R_CuIn= 15.99 | <dQ2>=0.006 | acc= 0.00001
+  T=  373.0 K | kT/lam= 0.11 | E/site= +0.0026 eV | alpha(In-Cu)= -14.990 | R_CuIn= 15.99 | <dQ2>=0.006 | acc= 0.00000
+  T=  320.0 K | kT/lam= 0.09 | E/site= +0.0026 eV | alpha(In-Cu)= -14.990 | R_CuIn= 15.99 | <dQ2>=0.006 | acc= 0.00001
+
+==============================================================================
+Experiment B: lambda sensitivity scan at T = 573 K (300 C)
+==============================================================================
+  lambda=0.00 eV | alpha(In-Cu)=  -0.06+/- 0.20 | R_CuIn=  1.06+/- 0.20 | <dQ2>=0.159
+  lambda=0.05 eV | alpha(In-Cu)=  -2.94+/- 0.20 | R_CuIn=  3.94+/- 0.20 | <dQ2>=0.124
+  lambda=0.10 eV | alpha(In-Cu)= -14.68+/- 0.07 | R_CuIn= 15.68+/- 0.07 | <dQ2>=0.010
+  lambda=0.15 eV | alpha(In-Cu)= -17.25+/- 3.23 | R_CuIn= 18.25+/- 3.23 | <dQ2>=0.008
+  lambda=0.20 eV | alpha(In-Cu)= -17.30+/- 3.27 | R_CuIn= 18.30+/- 3.27 | <dQ2>=0.008
+  lambda=0.25 eV | alpha(In-Cu)= -14.99+/- 0.00 | R_CuIn= 15.99+/- 0.00 | <dQ2>=0.006
+  lambda=0.30 eV | alpha(In-Cu)= -20.11+/- 3.67 | R_CuIn= 21.11+/- 3.67 | <dQ2>=0.009
+  lambda=0.40 eV | alpha(In-Cu)= -19.57+/- 3.24 | R_CuIn= 20.57+/- 3.24 | <dQ2>=0.009
+  lambda=0.50 eV | alpha(In-Cu)= -17.68+/- 3.81 | R_CuIn= 18.68+/- 3.81 | <dQ2>=0.009
+
+==============================================================================
+Experiment C: configurations at T = 373 K (100 C)
+==============================================================================
+  full        : clusters=   1, largest= 160, mean=160.00, monomer fraction= 0.00
+  electrostatic : clusters=   1, largest= 160, mean=160.00, monomer fraction= 0.00
+  elastic only  : clusters= 120, largest=   5, mean=  1.33, monomer fraction= 0.81
+
+  Full model first-neighbour bond matrix N_ab (rows/cols = Zn,Cu,In,Vac):
+[[22724   318   314     0]
+ [  318    86   470     0]
+ [  314   470    88     0]
+ [    0     0     0     0]]
+  In first-shell composition: Cu=0.490, In=0.183, Zn=0.327 (sum=1.000, expected 1.000)
+  Random expectation for Cu-In bonds = 19.2; observed = 470
+
+==============================================================================
+Experiment D: ergodicity test at 573 K, quenched versus pre-annealed start
+==============================================================================
+  quenched     alpha: start -22.854 -> final -23.167 (E/site -0.00211 eV, acc=0.00000)
+  pre-annealed alpha: start -23.427 -> final -23.479 (E/site -0.00528 eV, acc=0.00001)
+  difference between final alpha values = 0.312  ->  converged; treat as equilibrium
+
+Done. Total elapsed 507.2 s
